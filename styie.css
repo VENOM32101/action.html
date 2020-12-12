@@ -1,0 +1,26 @@
+body {
+     color: rgb(129, 82, 82);
+     background-image:url(https://fortnitefun.ru/wp-content/uploads/2020/06/Slurpentine-300x300.jpg);
+}
+
+p  {
+    color: cyan;
+}
+
+.hello_string {
+  font-size: large;
+  font-family:  Georgia, 'Times New Roman', Times, serif;
+  color: blue;
+  text-align: center;
+}
+
+.burger {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+    font-weight: lighter;
+}
+
+.bye_string {
+    color: cadetblue;
+    font-size: smaller;
+}
